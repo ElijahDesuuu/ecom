@@ -1,1 +1,1 @@
-<?php includ("templates/ecom/index.html"); ?>
+<?php includ("index.html"); ?>
