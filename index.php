@@ -1,0 +1,1 @@
+<?php includ("templates/ecom/index.html"); ?>
